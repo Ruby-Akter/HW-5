@@ -1,0 +1,38 @@
+.maindiv{
+    width:100%;
+    height:800px;
+    border: 2px solid black;
+    margin: 20px; 
+    
+
+}
+.head{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+.head1{
+    width: 150px;
+    height:100px;
+    background-color: wheat;
+    float:left;
+}
+
+    
+
+   
+
+
+.head2{
+    width:200px;
+    height:80px;
+    background-color:wheat;
+    float:right
+}
+.mainbody{
+    width:100%;
+    height: 600px;
+    background-color: white;
+    float:center;
+    
+}
